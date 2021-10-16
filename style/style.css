@@ -1,0 +1,12 @@
+body {
+	padding: 0;
+	margin: 0;
+	line-height: 0;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.lorem {
+	margin: 20px 0px 0px 0px;
+	line-height: 2px;
+	font-size: 20px;
+}
